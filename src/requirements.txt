@@ -10,4 +10,3 @@ openai>=1.66,<4          # cần reasoning_effort / max_completion_tokens
 anthropic>=2.5,<3        # chỉ khi LLM_PROVIDER = "anthropic"
 pytest>=8,<10
 jupyter
-google-generativeai
