@@ -2,9 +2,9 @@
 
 > Đổi tên file này thành `MSSV_HoTen.md` của bạn, ví dụ `2A20260000_NguyenVanAn.md`, rồi điền từng mục. Xoá các dòng hướng dẫn in nghiêng khi xong.
 
-- **MSSV:**
-- **Họ và tên:**
-- **SEED** (in ở ô đầu notebook):
+- **MSSV:** 2A202603612
+- **Họ và tên: Đỗ Cao Cường**
+- **SEED** (in ở ô đầu notebook):7582
 
 ## 1. Bằng chứng
 
@@ -20,7 +20,7 @@
 
 ## 3. Dự đoán và thực tế
 
-*Chọn 3 dự đoán `predict(...)` lệch nhiều nhất so với kết quả. Mỗi cái: bạn đoán gì, ra gì, vì sao lệch.*
+*Chọn 3 dự đoán* `predict(...)` *lệch nhiều nhất so với kết quả. Mỗi cái: bạn đoán gì, ra gì, vì sao lệch.*
 
 ## 4. Phân tích 50 case khó
 
